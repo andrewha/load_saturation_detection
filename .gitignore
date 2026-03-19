@@ -1,0 +1,5 @@
+__pycache__/
+*$py.class
+*.py[cod]
+.vscode/
+*.egg-info/

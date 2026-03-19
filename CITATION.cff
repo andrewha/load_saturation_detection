@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Load Saturation Detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andrei
+    family-names: Batyrov
+    orcid: 'https://orcid.org/0009-0001-0370-5378'
+repository-code: 'https://github.com/andrewha/load_saturation_detection'
+keywords:
+  - Capacity-constrained systems
+  - Critical load estimation
+  - Data censoring
+  - Load saturation
+  - Regime shift detection
+  - Variance-mean relationship
+license: BSD-3-Clause
+date-released: '2026-03-13'

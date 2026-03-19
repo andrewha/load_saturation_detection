@@ -1,0 +1,10 @@
+ipykernel==6.30.1
+ipython==7.23.1
+ipython_pygments_lexers==1.1.1
+ipywidgets==8.1.7
+jupyter==1.1.1
+matplotlib==3.10.6
+matplotlib-inline==0.1.7
+numpy==2.3.2
+pandas==2.3.2
+statsmodels==0.14.5
