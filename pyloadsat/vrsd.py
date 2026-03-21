@@ -2,7 +2,8 @@
 Variance Response-Based Saturation Detector (VRSD) implementation.
 """
 from collections import namedtuple
-from typing import Any, Self
+from typing_extensions import Any, Self
+# from typing import Any, Self
 
 import numpy as np
 import pandas as pd
