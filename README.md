@@ -1,6 +1,6 @@
 ### Load Saturation Detection
 
-This repository accompanies the article "A Framework for Detecting The Onset of Load Saturation in Capacity-Constrained Systems", manuscript ID: Access-2026-12416
+This repository accompanies the article "A Framework for Detecting The Onset of Load Saturation in Capacity-Constrained Systems" submitted to IEEE Access, manuscript ID: Access-2026-12416
 
 The repository contains:
 - [implementation](./pyloadsat) of the proposed Variance Response–Based Saturation Detection (VRSD) framework in Python
@@ -17,6 +17,11 @@ It is recommended to run the code in a virtual Python environment. Python 3.10 o
 > mkdir load_saturation_detection
 > git clone https://github.com/andrewha/load_saturation_detection.git
 > cd load_saturation_detection
+```
+##### Create and activate your Python virtual environment, for example like this
+```
+> \path\to\python\python.exe -m venv myenv
+> myenv\Scripts\activate
 ```
 ##### Install dependencies in your Python virtual environment
 ```
