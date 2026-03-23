@@ -5,7 +5,7 @@ This repository accompanies the article "A Framework for Detecting The Onset of 
 The repository contains:
 - [implementation](./pyloadsat) of the proposed Variance Response–Based Saturation Detection (VRSD) framework in Python
 - synthetic data as NumPy [binary files](./pyloadsat/data)
-- interactive Jupyter [notebook](./synthetic_data.ipynb) for reproducing saturation effect
+- interactive Jupyter [notebook](./synthetic_data.ipynb) (same on [nbviewer.org](https://nbviewer.org/github/andrewha/load_saturation_detection/blob/main/synthetic_data.ipynb)) for reproducing saturation effect
 - standalone Python [script](./synthetic_data.py)
 
 Due to confidentiality constraints, real operational data for legacy voice network cannot be shared.
@@ -18,7 +18,7 @@ It is recommended to run the code in a virtual Python environment. Python 3.10 o
 > git clone https://github.com/andrewha/load_saturation_detection.git
 > cd load_saturation_detection
 ```
-##### Create and activate your Python virtual environment, for example like this
+##### Create and activate your Python virtual environment, for example, like this
 ```
 > \path\to\python\python.exe -m venv myenv
 > myenv\Scripts\activate
