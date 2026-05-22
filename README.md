@@ -1,6 +1,6 @@
 ### Load Saturation Detection
 
-This repository accompanies the article "A Framework for Detecting The Onset of Load Saturation in Capacity-Constrained Systems" submitted to IEEE Access, manuscript ID: Access-2026-12416
+This repository accompanies the article "A Framework for Detecting The Onset of Load Saturation in Capacity-Constrained Systems" submitted to International Journal of Communication Systems, manuscript ID: 
 
 The repository contains:
 - [implementation](./pyloadsat) of the proposed Variance Response–Based Saturation Detection (VRSD) framework in Python
